@@ -10,15 +10,21 @@ p.RM{
 	text-align: left;
 	width: 500px;
 	padding-left: 50px;
-	background-color: white;
+	padding-right:50px;
+	background-color: #D6DBE3 ;
+	border-radius: 50px 50px 50px 15px;
+	color: black;
+	
 	
 }
 input{
 	float: right;
-	height: 50px;
+	height: 40px;
 	padding-right: 80px;
 	width: 500px;
-	
+	background-color: #5fd479;
+	color: white;
+	border-radius: 50px 50px 15px 50px;
 }
 body{
 	background-image: url("image.png");
